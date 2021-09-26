@@ -10,7 +10,7 @@ set up the build process with the correct version of SC2 API so you can focus on
 * Starcraft 2 ([Windows](https://starcraft2.com/en-us/)) ([Linux](https://github.com/Blizzard/s2client-proto#linux-packages)) 
 * [Starcraft 2 Map Packs](https://github.com/Blizzard/s2client-proto#map-packs)
 
-## Windows
+## Windows t
 
 Download and install [Visual Studio 2019](https://www.visualstudio.com/downloads/) if you need it. Building with Visual Studio 2019 not yet supported.
 
